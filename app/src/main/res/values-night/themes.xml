@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Assignment2" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimaryDarkTheme</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkDarkTheme</item>
+        <item name="colorSecondary">@color/colorSecondaryDarkTheme</item>
+        <item name="colorSecondaryDark">@color/colorSecondaryDarkDarkTheme</item>
+        <item name="colorAccent">@color/colorAccentDarkTheme</item>
+        <item name="colorBackground">@color/colorBackgroundDarkTheme</item>
+        <item name="colorBackgroundSurface">@color/colorBackgroundSurfaceDarkTheme</item>
+        <item name="colorBorder">@color/colorBorderDarkTheme</item>
+        <item name="colorError">@color/colorErrorDarkTheme</item>
+        <item name="colorText">@color/colorError</item>
+        <item name="colorTextHighEmphasis">@color/colorTextHighEmphasisDarkTheme</item>
+        <item name="colorTextMediumEmphasis">@color/colorTextMediumEmphasisDarkTheme</item>
+        <item name="colorTextDisabled">@color/colorTextDisabledDarkTheme</item>
+        <item name="colorTextError">@color/colorTextErrorDarkTheme</item>
+        <item name="statusBarBackground">@color/colorBackgroundDarkTheme</item>
+        <item name="android:statusBarColor">@color/colorBackgroundDarkTheme</item>
+        <item name="colorButtonTextColor">@color/colorButtonTextColorDarkTheme</item>
+
+    </style>
+</resources>
